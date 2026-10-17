@@ -1,0 +1,1 @@
+export{t as clientLoader}from"./profile-BfNrYlTt.js";
