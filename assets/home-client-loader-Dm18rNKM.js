@@ -1,0 +1,1 @@
+import{E as e}from"./utils-D2rdDCby.js";import{t}from"./course.service-R990uCym.js";import{t as n}from"./auth.service-BAI9NWpF.js";async function r({request:r}){return await n.is_loggedin(r)?{sessionInfo:n.get_cookie_session_info(r),courses:await t.get_all(r)}:e(`/login`)}export{r as clientLoader};

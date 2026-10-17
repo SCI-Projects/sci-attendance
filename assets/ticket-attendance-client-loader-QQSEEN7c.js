@@ -1,0 +1,1 @@
+import{E as e}from"./utils-D2rdDCby.js";async function t({params:t}){let n=(t.ticketId||``).trim();return n?{ticketId:n}:e(`/login`)}export{t as clientLoader};

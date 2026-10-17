@@ -1,0 +1,1 @@
+import"./rolldown-runtime-WkwZ5CU-.js";async function e(){return clientLoader()}export{e as clientAction};
