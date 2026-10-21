@@ -1,0 +1,1 @@
+import{E as e}from"./utils-D2rdDCby.js";import{t}from"./auth.service-DdhdyOIH.js";async function n(){return t.clear_auth(),e(`/login`)}export{n as clientLoader};

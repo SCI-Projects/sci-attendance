@@ -1,0 +1,1 @@
+import"./auth.service-DdhdyOIH.js";async function e(){return clientLoader()}export{e as clientAction};

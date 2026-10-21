@@ -1,0 +1,1 @@
+import{E as e}from"./utils-D2rdDCby.js";import{t}from"./auth.service-DdhdyOIH.js";async function n({request:n}){return await t.is_loggedin(n)?e(`/`):null}export{n as clientLoader};
